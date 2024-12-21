@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-A simple and user-friendly weather application that allows you to search for the current weather of any city in the world. Built with HTML, CSS, and JavaScript, this app fetches live weather data using a public API.
+A simple and user-friendly weather application that allows you to search for the current weather of any city in the world. Built with HTML, and CSS, this app fetches live weather data using a public API.
 
 ![Weather App Screenshot](images/search_bar.png)  
 ![Weather App Screenshot](images/search_example.png)  

@@ -18,4 +18,4 @@ A simple and user-friendly weather application that allows you to search for the
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/weather_app.git
+   git clone https://github.com/Jcovi/weather_app.git
